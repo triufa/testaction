@@ -8,6 +8,7 @@ namespace ConsolaNet
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
+            var f = 0;
         }
     }
 }
