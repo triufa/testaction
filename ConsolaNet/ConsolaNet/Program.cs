@@ -7,7 +7,7 @@ namespace ConsolaNet
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            Console.ReadLine()
             var f = 0;
             //dhdhd
         }
