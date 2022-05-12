@@ -14,7 +14,7 @@ namespace ConsolaNet
         
         public static bool ComprobarCliente(string cliente)
         {
-            return cliente.Equals("Sodimac");
+            return cliente.Equals("Tottus");
         }
     }
 }
