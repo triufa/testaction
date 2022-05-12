@@ -22,3 +22,6 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
       working-directory: ./ConsolaNet
+    - name: Test Unitarios
+      run: dotnet test
+      working-directory: ./ConsolaNet
